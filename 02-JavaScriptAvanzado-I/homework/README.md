@@ -127,7 +127,7 @@ function getFood(food) {
     return snack;
 }
 
-getFood(false); //Retorna indefinido porque el valor pasado por parametros a la funcion no esta definido
+getFood(false);
 
 
 
